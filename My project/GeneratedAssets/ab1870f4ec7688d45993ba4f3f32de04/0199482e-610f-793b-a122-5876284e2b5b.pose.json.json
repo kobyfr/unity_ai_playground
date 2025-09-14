@@ -1,0 +1,11 @@
+{
+    "asset": "b49ce98e5023b5045bf229e63e28dc8b",
+    "fileName": "0199482e-610f-793b-a122-5876284e2b5b.pose.json",
+    "prompt": "Re-create the PlayerIdle animation by using the PlayerRun animation as a reference and replacing the sprites with new ones suitable for an idle pose.",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 275416670,
+    "w3CTraceId": "9223076edaf114f1d328130dec937677",
+    "isTrimmed": false
+}
